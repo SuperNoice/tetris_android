@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Тетрис</string>
+    <string name="play_btn">Играть</string>
+    <string name="stat_btn">Статистика</string>
+    <string name="settings_btn">Настройки</string>
+
+    <string name="stat_lbl">Статистика</string>
+
+    <string name="lang_lbl">Язык :</string>
+
+    <string name="score">Счет: </string>
+    <string name="nextFig">Следующая фигура: </string>
+</resources>
